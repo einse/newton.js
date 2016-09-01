@@ -1,4 +1,9 @@
-	/*
+/*
+    This file is a part of Newton.js by dbose:
+    https://github.com/dbose/newton.js
+*/
+
+/*
     A wrapper around Box2D for SVG. Inspired by http://www.youtube.com/watch?v=bJ_ONON90fo
 
     NOTE:

@@ -1,6 +1,10 @@
+/* 
+    This file is a part of Newton.js by dbose:
+    https://github.com/dbose/newton.js
+*/
+
 /*
     All Utility classes goes here
-
 */
 
 var Mixow = Mixow || {};

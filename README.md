@@ -1,7 +1,12 @@
-newton.js
-============
+Newton.js Demo
+==============
 
-A much-needed wrapper over Box2D for RaphaelJS. Newton.JS is not supposed to be a complete game engine, although the game-loop, behaviors has creeped in the code. This has been extracted from [Mixow](http://www.mixow.com)
+Important changes made after forking the original repo:
+- Raphael.js' version changed from 1.4.7 to 1.5.2.
+
+The original repo is this: https://github.com/dbose/newton.js. The text below was copied from there.
+
+Newton.js is a much-needed wrapper over Box2D for RaphaelJS. Newton.JS is not supposed to be a complete game engine, although the game-loop, behaviors has creeped in the code. This has been extracted from [Mixow](http://www.mixow.com)
 
 [![Mixow](http://img.youtube.com/vi/DX4Sx1-i_6k/0.jpg)](http://www.youtube.com/watch?v=DX4Sx1-i_6k)
 
